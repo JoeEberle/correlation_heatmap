@@ -1,6 +1,6 @@
 # Correlation Heatmap  - Identify your datas most Important Relationships and Features  
 
-![Code Logo](joe_logo.png)
+![Code Logo](developer.png)
 
 ## Description
 
