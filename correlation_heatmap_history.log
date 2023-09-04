@@ -1,0 +1,17 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-09-04 16:19:12,133 - INFO - START correlation_heatmap =============================================
+2023-09-04 16:19:12,133 - INFO - START correlation_heatmap Start Time = 2023-09-04 16:19:12
+2023-09-04 16:19:12,134 - INFO - correlation_heatmap Step 0 - Initialize the configuration file parser
+2023-09-04 16:19:12,174 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-09-04 16:19:12,174 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-09-04 16:19:39,888 - INFO - correlation_heatmap - Step 1 - Load ANY data set for which to run discovery or data profiling
+2023-09-04 16:19:39,902 - INFO - correlation_heatmap - Step 1 - Loaded data set titanic_data that contains 1310 rows and 14 columns.
+2023-09-04 16:19:40,295 - INFO - PERFORMANCE correlation_heatmap The total process duration was:28.16
+2023-09-04 16:19:40,295 - INFO - PERFORMANCE correlation_heatmap Stop Time = 2023-09-04 16:19:40
+2023-09-04 16:19:40,295 - INFO - PERFORMANCE correlation_heatmap Low process duration less than 3 minutes:28.16
+2023-09-04 16:19:40,295 - INFO - PERFORMANCE correlation_heatmap Performance optimization is optional
+2023-09-04 16:19:40,295 - INFO - END correlation_heatmap =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
