@@ -4,11 +4,11 @@ Solution for Correlation Heatmap
 
 ![Image image_filename](code.png)
 
-Welcome to the solution **Correlation Heatmap** - an example for your projects
+1. A **correlation heatmap** is a graphical representation of the correlation coefficients between variables in a data set.   
+2. **Correlation** measures the statistical relationship between two variables, indicating how changes in one variable might be associated with changes in another.   
+3. Correlation coefficients typically range between -1 and 1, with values closer to 1 indicating a strong positive correlation,    
+4. values closer to -1 indicating a strong negative correlation, and values closer to 0 indicating a weak or no correlation.   
 
-Solution for Correlation Heatmap
-
-![Image image_filename](sample.png)
 
 ## Features
 - Easy to understand and use  
@@ -38,4 +38,4 @@ To get started with the **Correlation Heatmap** solution repository, follow thes
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>
+    ![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](saample.png)  <br>
