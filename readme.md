@@ -1,6 +1,6 @@
 
-# Correlation Heatmap - Solution for Correlation Heatmap
-Solution for Correlation Heatmap
+# Correlation Heatmap - A correlation heatmap provides insights to critical relationships within Data
+A correlation heatmap provides insights to critical relationships within Data
 
 ![Image image_filename](code.png)
 
