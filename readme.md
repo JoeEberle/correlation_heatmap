@@ -10,7 +10,7 @@ A correlation heatmap provides insights to critical relationships within Data
 4. values closer to -1 indicating a strong negative correlation, and values closer to 0 indicating a weak or no correlation.   
 
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
