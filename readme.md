@@ -48,5 +48,5 @@ To get started with the **Correlation Heatmap** solution repository, follow thes
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](saample.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](saample.png)  <br>
     
