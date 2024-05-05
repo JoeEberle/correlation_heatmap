@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Correlation Heatmap - A correlation heatmap provides insights to critical relationships within Data
 A correlation heatmap provides insights to critical relationships within Data
 
@@ -9,8 +11,6 @@ A correlation heatmap provides insights to critical relationships within Data
 3. Correlation coefficients typically range between -1 and 1, with values closer to 1 indicating a strong positive correlation,    
 4. values closer to -1 indicating a strong negative correlation, and values closer to 0 indicating a weak or no correlation.   
 
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
