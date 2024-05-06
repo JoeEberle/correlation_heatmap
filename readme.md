@@ -12,6 +12,13 @@ A correlation heatmap provides insights to critical relationships within Data
 4. values closer to -1 indicating a strong negative correlation, and values closer to 0 indicating a weak or no correlation.   
 
 
+## Getting Started
+To get started with the **Correlation Heatmap** solution repository, follow these steps:
+1. Clone the repository to your local machine.
+2. Install the required dependencies listed at the top of the notebook.
+3. Explore the example code provided in the repository and experiment.
+4. Run the notebook and make it your own - **EASY !**
+    
 ## Solution Features
 - Easy to understand and use  
 - Easily Configurable 
@@ -28,12 +35,8 @@ A correlation heatmap provides insights to critical relationships within Data
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
     
-## Getting Started
-To get started with the **Correlation Heatmap** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
+## Deliverables or Figures
+ ![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](saample.png)  <br>
     
 
 ## Github    
@@ -46,7 +49,4 @@ To get started with the **Correlation Heatmap** solution repository, follow thes
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    
-## Deliverables or Figures
- ![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](saample.png)  <br>
     
