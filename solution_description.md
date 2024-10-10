@@ -15,8 +15,8 @@
   - [Contact Information](#contact-information)
 
 # Correlation Heatmap Overview
-[...]
 
+A **correlation heatmap** is a visual representation of the correlation coefficients between multiple variables in a dataset, displayed as a color-coded matrix. It helps identify and highlight the strength and direction of relationships between variables, making it easier to detect patterns or redundant features in the data.
 
 ## Enhancing Data Analysis with Correlation Heatmaps
 In the realm of data analysis, identifying the relationships between variables is a crucial step that can significantly impact the outcomes of predictive modeling and feature engineering.
