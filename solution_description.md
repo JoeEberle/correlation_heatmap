@@ -1,4 +1,23 @@
 
+
+# Table of Contents
+
+- [Correlation Heatmap Overview](#correlation-heatmap-overview)
+  - [Who Can Use Correlation Heatmaps?](#who-can-use-correlation-heatmaps)
+  - [Advantages of Using Correlation Heatmaps](#advantages-of-using-correlation-heatmaps)
+  - [Return on Investment (ROI)](#return-on-investment-roi)
+  - [How it Works](#how-it-works)
+  - [Conclusion](#conclusion)
+  - [Getting Started](#getting-started)
+  - [Solution Features](#solution-features)
+  - [Notebook Features](#notebook-features)
+  - [Deliverables or Figures](#deliverables-or-figures)
+  - [Contact Information](#contact-information)
+
+# Correlation Heatmap Overview
+[...]
+
+
 ## Enhancing Data Analysis with Correlation Heatmaps
 In the realm of data analysis, identifying the relationships between variables is a crucial step that can significantly impact the outcomes of predictive modeling and feature engineering.
 
