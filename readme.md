@@ -61,6 +61,9 @@ In conclusion, correlation heatmaps are a powerful tool for anyone involved in d
 
 ![Image image_filename](sample.png)![Image image_filename](getting_started.png)
 ## Getting Started
+
+The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+
 To get started with the **Correlation Heatmap** solution repository, follow these steps:
 1. Clone the repository to your local machine.
 2. Install the required dependencies listed at the top of the notebook.
@@ -75,7 +78,7 @@ To get started with the **Correlation Heatmap** solution repository, follow thes
 
 ## Notebook Features
 
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
+These Features are design to provide everything you need for **Knowledge Transfer** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -87,7 +90,7 @@ The goal of this solution is to **Jump Start** your development and have you up 
 - **Educational** - Includes educational dialogue and background material
     
 ## List of Figures
- ![additional_image](AI feature engineering.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](Finding_correlations.png)  <br>![additional_image](getting_started.png)  <br>
+ ![additional_image](AI feature engineering.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](Finding_correlations.png)  <br>
     
 
 ## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
