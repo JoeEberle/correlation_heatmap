@@ -67,16 +67,7 @@ In conclusion, correlation heatmaps are a powerful tool for anyone involved in d
 
 ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
-    ![Image image_filename](getting_started.png)## Getting Started
-## Solution Features
-
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-- Saves You Time 
-
-
+    ![Image image_filename](getting_started.png)
 ## Code Features
 
 These features are designed to provide everything you need for **Correlation Heatmap** 
