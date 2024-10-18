@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Correlation Heatmap - A correlation heatmap provides insights to critical relationships within Data![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Correlation Heatmap 
+    ## A correlation heatmap provides insights to critical relationships within Data
+    ![Image image_filename](code.png)
 
 # Table of Contents
 
@@ -59,12 +62,15 @@ The use of automated correlation heatmaps can lead to significant ROI for enterp
 ## Conclusion
 In conclusion, correlation heatmaps are a powerful tool for anyone involved in data analysis and feature engineering. Their ability to automate and visualize correlations not only saves time but also enhances the accuracy and clarity of data insights, providing substantial benefits to both analysts and businesses.
 
-![Image image_filename](code.png)![Image image_filename](sample.png)![Image image_filename](getting_started.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)## Getting Started![Image image_filename](getting_started.png)## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
