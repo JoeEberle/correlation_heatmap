@@ -4,20 +4,7 @@
 
 ## A correlation heatmap provides insights to critical relationships within Data
 
-    
-# Table of Contents
-
-- [Solution Overview](#Solution-Overview)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Notebook Features](#notebook-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
-![Image image_filename](code.png)
+    ![Image image_filename](code.png)
 
 # Table of Contents
 
@@ -81,6 +68,15 @@ In conclusion, correlation heatmaps are a powerful tool for anyone involved in d
 ![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
     ![Image image_filename](getting_started.png)
+## Solution Features
+
+- Easy to understand and use  
+- Easily Configurable 
+- Quickly start your project with pre-built templates
+- Its Fast and Automated
+- Saves You Time 
+
+
 ## Code Features
 
 These features are designed to provide everything you need for **Correlation Heatmap** 
