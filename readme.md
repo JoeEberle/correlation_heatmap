@@ -59,17 +59,7 @@ The use of automated correlation heatmaps can lead to significant ROI for enterp
 ## Conclusion
 In conclusion, correlation heatmaps are a powerful tool for anyone involved in data analysis and feature engineering. Their ability to automate and visualize correlations not only saves time but also enhances the accuracy and clarity of data insights, providing substantial benefits to both analysts and businesses.
 
-![Image image_filename](sample.png)![Image image_filename](getting_started.png)
-## Getting Started
-
-The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
-
-To get started with the **Correlation Heatmap** solution repository, follow these steps:
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed at the top of the notebook.
-3. Explore the example code provided in the repository and experiment.
-4. Run the notebook and make it your own - **EASY !**
-    
+![Image image_filename](code.png)![Image image_filename](sample.png)![Image image_filename](getting_started.png)
 ## Solution Features
 - Easy to understand and use  
 - Easily Configurable 
