@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Correlation Heatmap 
-    ## A correlation heatmap provides insights to critical relationships within Data
+    
+# Correlation Heatmap 
+
+## A correlation heatmap provides insights to critical relationships within Data
+
     ![Image image_filename](code.png)
 
 # Table of Contents
@@ -62,7 +65,9 @@ The use of automated correlation heatmaps can lead to significant ROI for enterp
 ## Conclusion
 In conclusion, correlation heatmaps are a powerful tool for anyone involved in data analysis and feature engineering. Their ability to automate and visualize correlations not only saves time but also enhances the accuracy and clarity of data insights, providing substantial benefits to both analysts and businesses.
 
-![Image image_filename](code.png)![Image image_filename](sample.png)## Getting Started![Image image_filename](getting_started.png)## Getting Started
+![Image image_filename](code.png)![Image image_filename](sample.png)
+## Getting Started
+    ![Image image_filename](getting_started.png)## Getting Started
 ## Solution Features
 
 - Easy to understand and use  
@@ -72,9 +77,9 @@ In conclusion, correlation heatmaps are a powerful tool for anyone involved in d
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Correlation Heatmap** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -84,6 +89,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](AI feature engineering.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](Finding_correlations.png)  <br>
