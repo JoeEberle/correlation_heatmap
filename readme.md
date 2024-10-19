@@ -24,21 +24,7 @@
 
 
 
-# Table of Contents
-
-- [Correlation Heatmap Overview](#correlation-heatmap-overview)
-  - [Who Can Use Correlation Heatmaps?](#who-can-use-correlation-heatmaps)
-  - [Advantages of Using Correlation Heatmaps](#advantages-of-using-correlation-heatmaps)
-  - [Return on Investment (ROI)](#return-on-investment-roi)
-  - [How it Works](#how-it-works)
-  - [Conclusion](#conclusion)
-  - [Getting Started](#getting-started)
-  - [Solution Features](#solution-features)
-  - [Notebook Features](#notebook-features)
-  - [Deliverables or Figures](#deliverables-or-figures)
-  - [Contact Information](#contact-information)
-
-# Correlation Heatmap Overview
+# Solution Overview
 
 A **correlation heatmap** is a visual representation of the correlation coefficients between multiple variables in a dataset, displayed as a color-coded matrix. It helps identify and highlight the strength and direction of relationships between variables, making it easier to detect patterns or redundant features in the data.
 
