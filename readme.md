@@ -89,13 +89,3 @@ In conclusion, correlation heatmaps are a powerful tool for anyone involved in d
 - ✅ **Educational** Each template includes educational narrative and background context to support learning, teaching, and collaborative development.
 
     
-## List of Figures
- ![additional_image](AI feature engineering.png)  <br>![additional_image](correlation_heatmap.png)  <br>![additional_image](correlation_heatmap_example.png)  <br>![additional_image](Finding_correlations.png)  <br>
-    
-
-## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
-    
-![Developer](developer.png)
-
-![Brand](brand.png)
-    
