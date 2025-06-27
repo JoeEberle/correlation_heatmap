@@ -1,0 +1,4 @@
+2025-06-27 07:27:30,477 - INFO - START correlation_heatmap =============================================
+2025-06-27 07:27:30,477 - INFO - START correlation_heatmap Start Time = 2025-06-27 07:27:30
+2025-06-27 07:27:30,477 - INFO - correlation_heatmap Step 0 - Initialize the configuration file parser
+2025-06-27 07:27:30,593 - INFO - correlation_heatmap - Step 1 - Load ANY data set for which to run discovery or data profiling
