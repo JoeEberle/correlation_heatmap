@@ -81,13 +81,13 @@ In conclusion, correlation heatmaps are a powerful tool for anyone involved in d
 ![Solution](code.png)
 
     
-## Solution Features
+## 🧠 Solution Features
 
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-- Saves You Time 
+- ✅ Easy to understand and use  
+- ✅ Easily Configurable 
+- ✅ Quickly start your project with pre-built templates
+- ✅ Its Fast and Automated
+- ✅ Saves You Time 
 
 
 
